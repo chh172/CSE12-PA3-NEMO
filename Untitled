@@ -1,0 +1,3 @@
+analysis:
+the stack wins about the same times as the queue method.
+this is because their only difference is the order of adding things to the list.
